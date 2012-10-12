@@ -1,0 +1,10 @@
+Content:
+  'Newsletter':
+    Newsletter:
+      name: Newsletter korisnici | Newsletter korisnici
+      page: false
+      front: true
+      components:
+        form:
+          name: 'Newsletter'
+          cache: false
